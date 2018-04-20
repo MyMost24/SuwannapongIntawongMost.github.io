@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="820171db-ce27-4221-a4e2-a164c0f98ea7" name="Default" comment="I add photo and card">
-      <change afterPath="$PROJECT_DIR$/About/About.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Contact/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gallery/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puchifah/Puchifah.html" beforeDir="false" afterPath="$PROJECT_DIR$/puchifah/Puchifah.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singpark/singpark.html" beforeDir="false" afterPath="$PROJECT_DIR$/singpark/singpark.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/watrongkhun/WatRongKhun.html" beforeDir="false" afterPath="$PROJECT_DIR$/watrongkhun/WatRongKhun.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/contact.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,16 +45,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Contact/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+            <state relative-caret-position="169">
+              <caret line="56" column="94" selection-start-line="56" selection-start-column="94" selection-end-line="56" selection-end-column="94" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -105,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gallery/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="71">
@@ -152,13 +146,13 @@
         <option value="$PROJECT_DIR$/Puchifah.html" />
         <option value="$PROJECT_DIR$/singpark/gallery.html" />
         <option value="$PROJECT_DIR$/About/contact.html" />
-        <option value="$PROJECT_DIR$/Contact/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/About/About.html" />
         <option value="$PROJECT_DIR$/puchifah/Puchifah.html" />
         <option value="$PROJECT_DIR$/watrongkhun/WatRongKhun.html" />
         <option value="$PROJECT_DIR$/singpark/singpark.html" />
         <option value="$PROJECT_DIR$/Gallery/gallery.html" />
+        <option value="$PROJECT_DIR$/Contact/contact.html" />
       </list>
     </option>
   </component>
@@ -236,7 +230,7 @@
       <workItem from="1524206578380" duration="9000" />
       <workItem from="1524224070021" duration="4947000" />
       <workItem from="1524230704991" duration="4767000" />
-      <workItem from="1524235888877" duration="3765000" />
+      <workItem from="1524235888877" duration="4113000" />
     </task>
     <task id="LOCAL-00001" summary="i add navbar">
       <created>1524146379551</created>
@@ -256,7 +250,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19266000" />
+    <option name="totallyTimeSpent" value="19614000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,20 +422,6 @@
     <entry file="file://$PROJECT_DIR$/WatRongKhun.html" />
     <entry file="file://$PROJECT_DIR$/singpark.html" />
     <entry file="file://$PROJECT_DIR$/Puchifah.html" />
-    <entry file="file://$PROJECT_DIR$/Contact/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -509,6 +489,21 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="56" column="94" selection-start-line="56" selection-start-column="94" selection-end-line="56" selection-end-column="94" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
