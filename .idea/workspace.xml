@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="820171db-ce27-4221-a4e2-a164c0f98ea7" name="Default" comment="I add photo and card">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact/contact.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="155">
@@ -37,6 +37,15 @@
                 <element signature="n#style#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Contact/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="59" column="82" selection-start-line="59" selection-start-column="82" selection-end-line="59" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -92,7 +101,6 @@
         <option value="$PROJECT_DIR$/singpark/gallery.html" />
         <option value="$PROJECT_DIR$/About/contact.html" />
         <option value="$PROJECT_DIR$/About/About.html" />
-        <option value="$PROJECT_DIR$/Contact/contact.html" />
         <option value="$PROJECT_DIR$/watrongkhun/WatRongKhun.html" />
         <option value="$PROJECT_DIR$/Gallery/Puchifah/photopu.html" />
         <option value="$PROJECT_DIR$/photopuchifah/photo puchifah.html" />
@@ -130,6 +138,7 @@
         <option value="$PROJECT_DIR$/Gallery/gallery.html" />
         <option value="$PROJECT_DIR$/puchifah/Puchifah.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Contact/contact.html" />
       </list>
     </option>
   </component>
@@ -158,6 +167,11 @@
             <path>
               <item name="SuwannapongIntawongMost.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="SuwannapongIntawongMost.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SuwannapongIntawongMost.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuwannapongIntawongMost.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="Contact" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,7 +230,8 @@
       <workItem from="1525141648058" duration="8000" />
       <workItem from="1525170969840" duration="11284000" />
       <workItem from="1525327826892" duration="21998000" />
-      <workItem from="1525356962540" duration="1099000" />
+      <workItem from="1525356962540" duration="1318000" />
+      <workItem from="1525364734047" duration="1417000" />
     </task>
     <task id="LOCAL-00001" summary="i add navbar">
       <created>1524146379551</created>
@@ -236,7 +251,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79014000" />
+    <option name="totallyTimeSpent" value="80650000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,13 +393,6 @@
     <entry file="file://$PROJECT_DIR$/WatRongKhun.html" />
     <entry file="file://$PROJECT_DIR$/singpark.html" />
     <entry file="file://$PROJECT_DIR$/Puchifah.html" />
-    <entry file="file://$PROJECT_DIR$/Contact/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="65" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/About/About.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -603,6 +611,13 @@
             <element signature="n#style#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="59" column="82" selection-start-line="59" selection-start-column="82" selection-end-line="59" selection-end-column="82" />
         </state>
       </provider>
     </entry>
