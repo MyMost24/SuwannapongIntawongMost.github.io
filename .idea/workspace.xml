@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="820171db-ce27-4221-a4e2-a164c0f98ea7" name="Default" comment="I add photo and card">
-      <change afterPath="$PROJECT_DIR$/photowatfish/photowatfish.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photowatkeaw/photowatkeaw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photowatrongkhun/photowatrongkhun.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photowattiger/photowattiger.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photowattung/photowattung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gallery/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/Gallery/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo9artgallery.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,14 +16,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
+            <state relative-caret-position="272">
+              <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -145,11 +136,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gallery/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="187" column="61" selection-start-line="187" selection-start-column="61" selection-end-line="187" selection-end-column="61" />
+            <state relative-caret-position="274">
+              <caret line="184" column="75" selection-start-line="184" selection-start-column="75" selection-end-line="184" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -209,10 +200,10 @@
         <option value="$PROJECT_DIR$/photowatkeaw/photowatkeaw.html" />
         <option value="$PROJECT_DIR$/photowattiger.html" />
         <option value="$PROJECT_DIR$/photowattiger/photowattiger.html" />
-        <option value="$PROJECT_DIR$/Gallery/gallery.html" />
         <option value="$PROJECT_DIR$/photowatrongkhun/photowatrongkhun.html" />
         <option value="$PROJECT_DIR$/photowattung/photowattung.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Gallery/gallery.html" />
       </list>
     </option>
   </component>
@@ -303,7 +294,7 @@
       <workItem from="1524747155119" duration="4187000" />
       <workItem from="1525141648058" duration="8000" />
       <workItem from="1525170969840" duration="11284000" />
-      <workItem from="1525327826892" duration="14963000" />
+      <workItem from="1525327826892" duration="15231000" />
     </task>
     <task id="LOCAL-00001" summary="i add navbar">
       <created>1524146379551</created>
@@ -323,7 +314,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70880000" />
+    <option name="totallyTimeSpent" value="71148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,7 +373,6 @@
           <caret line="101" column="2" lean-forward="true" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="2" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -403,7 +393,6 @@
           <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -896,13 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gallery/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="187" column="61" selection-start-line="187" selection-start-column="61" selection-end-line="187" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/photowatrongkhun/photowatrongkhun.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
@@ -949,15 +931,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
+        <state relative-caret-position="272">
+          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gallery/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="184" column="75" selection-start-line="184" selection-start-column="75" selection-end-line="184" selection-end-column="75" />
         </state>
       </provider>
     </entry>
